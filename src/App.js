@@ -6,6 +6,7 @@ import NavigationBar from './components/NavigationBar';
 import Footer from './components/Footer';
 import Container from 'react-bootstrap/Container';
 
+
 function App() {
   return (
     <div className="App">
